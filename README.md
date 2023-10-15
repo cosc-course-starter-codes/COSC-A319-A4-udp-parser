@@ -25,10 +25,12 @@ Transport layer protocol QUIC (RFC 9000)](https://datatracker.ietf.org/doc/rfc90
 HTTP/3 (RFC 9114)](https://datatracker.ietf.org/doc/rfc9114/).
 
 > NOTE: This is an example of the Internet standards process in action, as these
-standards, currently having **Internet Draft** status, are currently being
-vetted and implemented. You can find various documents and email archives
-regarding the decisions being made on these standards at [the QUIC working
-group home on IETF.org](https://datatracker.ietf.org/wg/quic/documents/).
+standards, currently having **Proposed Standard** status, have largely been vetted
+and are now being implemented. You can find various documents and email archives
+regarding the decisions being made on these standards at [the QUIC working group
+home on IETF.org](https://datatracker.ietf.org/wg/quic/documents/). In addition, if
+you review the pages linked above for each RFC, they contain information
+about the current status and history of each of the proposed standard documents.
 
 ### Ports and Sockets
 
