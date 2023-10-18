@@ -164,10 +164,8 @@ zero-filled. Using that data, the checksum is then calculated as the
 16-bit one's compliment of the one's compliment sum of the combined
 data.
 
-You can use [the `createChecksum` function of the `raw-socket` Node.js
-package](https://www.npmjs.com/package/raw-socket#rawcreatechecksum-bufferorobject-bufferorobject-)
-to compute the proper checksum for the data. That function is exported
-from the included `lib/checksum.js` module, so you can import it from there.
+You can use the `createChecksum` function exported from the included
+`lib/checksum.js` module to compute the proper checksum for the data.
 
 ## Your Assignment
 

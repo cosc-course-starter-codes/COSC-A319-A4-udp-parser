@@ -22,7 +22,5 @@
     "jsdoc": "^4.0.2",
     "modern-jsdoc-template": "^1.0.0"
   },
-  "dependencies": {
-    "raw-socket": "^1.7.0"
-  }
+  "dependencies": {}
 }
